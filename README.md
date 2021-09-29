@@ -2,7 +2,6 @@
 
 
 - 📫 How to reach me: milton#1337 / boonmilton@gmail.com
-- 🌱 I’m currently learning ... 
 
 
 #### Programming Languages
